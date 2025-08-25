@@ -1,5 +1,5 @@
 # IA 340 Python codes
-
+![image](https://www.jmu.edu/_images/homepage/explore-programs.jpg)
 This is my [IA340](https://catalog.jmu.edu/preview_course_nopop.php?catoid=50&coid=258336) project. 
 
 ## course description 
